@@ -1,9 +1,9 @@
 # 🐍 Juego de la Serpiente en Python (Pygame)
 
-## 📖 Materia
+##Materia
 **Lógica de Programación 2-ECC-1A**
 
-## 👨‍🎓 Alumno
+##Alumno
 **Abel Andréss Ortiz Haro**
 
 ---
@@ -20,13 +20,13 @@ Este proyecto sirve como ejemplo educativo para aprender:
 - ✅ Uso de bucles de juego  
 - ✅ Principios básicos de diseño de videojuegos
 
-## ▶️ Ejecución
+## Ejecución
 
 Para ejecutar el juego, abre la terminal en la carpeta del proyecto y escribe:
 
 python snake_game.py
 
-## 📊 Diagramas
+## Diagramas
 **1. Diagrama de Casos de Uso**
 
 Jugador controla la serpiente con las flechas del teclado.
